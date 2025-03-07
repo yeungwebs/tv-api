@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-07 19:46:14,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+2025-03-07 19:53:14,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 全部频道,#genre#
 cctv1,http://wuwenxidong.work:2333/udp/225.1.8.101:8080
