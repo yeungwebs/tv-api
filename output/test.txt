@@ -2,6 +2,7 @@
 2025-03-07 19:46:14,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 全部频道,#genre#
+cctv1,http://wuwenxidong.work:2333/udp/225.1.8.101:8080
 cctv1,http://129.153.216.217:50001/TVOD/5000000004000002226/bestzb/index.m3u8
 cctv1,http://61.216.108.239:5566/TVOD/1000000001000018602/ystenlive/index.m3u8
 cctv2,http://154.64.254.6:50001/TVOD/1000000001000023315/ystenlive/index.m3u8
